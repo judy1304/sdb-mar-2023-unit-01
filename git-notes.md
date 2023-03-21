@@ -7,3 +7,22 @@ Use the command in the terminal `git init` YOU MUST BE IN THE DIRECTORY YOU ARE 
 
 ## List all the changes that Git is tracking
 Use the command in the terminal of `git status`
+
+## Adding files to the Staging Area
+
+Use the command in the terminal: `git add.`
+
+## Commiting our changes and adding a message 
+
+Use the command in the terminal `git commit -m "YOUR MESSAGE HERE"`
+
+## Setting username and email in git
+
+`git config --global user.name "Judith Tuyisingize"`
+`git config --global user.email "Judith_Tuyisingize@example.com"`
+`git config --list` will allow you to verify your git settings 
+
+
+# Github
+1. Create a repository and give it a unique name. Ex: sdb-mar-2023-unit-01
+Copy
