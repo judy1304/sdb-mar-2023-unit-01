@@ -1,0 +1,17 @@
+#para1{
+    color: red;
+    margin-bottom: 200px;
+  }
+  
+  #para2 {
+    color: blue;
+  }
+
+  .paragrapgh {
+    font-size: 24px;
+    color: purple !important;
+  }
+
+  p {
+    margin-bottom: 50px;
+  }
